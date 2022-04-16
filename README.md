@@ -2,7 +2,7 @@
 - 👀 I’m interested in cooking, jokes, coding, and science.
 - 🌱 I’m currently learning github repository, blockchain, web development, arduino, and simulation algorithms
 - 💞️ I’m looking to collaborate on blockchain codes.
-- 📫 How to reach me: email - kirbie_27@yahoo.com, contact no: 09056641947
+- 📫 How to reach me: email - joankirby.wenceslao@gmail.com, contact no: 09056641947
 
 <!---
 kirbie27/kirbie27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
