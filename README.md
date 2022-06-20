@@ -1,3 +1,7 @@
+<p align="center">
+<img src="banner.png" title="Banner">
+</p>
+
 - 👋 Hi, I’m @kirbie27
 - 👀 I’m interested in cooking, jokes, coding, and science.
 - 🌱 I’m currently learning github repository, blockchain, web development, arduino, and simulation algorithms
