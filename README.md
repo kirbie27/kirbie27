@@ -1,5 +1,5 @@
 <p align="center">
-<img src="banner.png" title="Banner">
+<img src="bannerv2.png" title="Banner">
 </p>
 
 - 👋 Hi, I’m @kirbie27
