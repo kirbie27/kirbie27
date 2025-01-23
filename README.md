@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="bannerf.png" title="Banner">
+<img src="bannerL.png" title="Banner">
 </p>
 
 - 👋 Hi, I’m @kirbie27
